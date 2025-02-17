@@ -1,5 +1,7 @@
-# Demo Dag
+# Demo Dags
 
 
-Simple example of Bash & Python Operators using Airflow decorator tasks. Also includes commonly used 
-default args and dag decorator parameters. 
+**Simple example dags:**
+
+1. Python & Bash Operators w/ default args
+2. Postgres Connection
