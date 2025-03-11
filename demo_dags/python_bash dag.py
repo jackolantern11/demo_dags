@@ -38,4 +38,4 @@ def hello_world():
     hello_python() >> hello_bash
 
 # Instantiate DAG
-hello_world_dag = hello_world()
+hello_world()
